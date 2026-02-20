@@ -1,11 +1,11 @@
 💼 Personal Portfolio Website
    
-    🚀 Live Demo »  https://dharani865.github.io/Personal-Portfolio/
+    🚀 Live Demo » https://dharani865.github.io/Portfolio/
 
    Website Preview
 <p align="center"> 
   <kbd>
-    <a href=" https://dharani865.github.io/Personal-Portfolio/" target="_blank"><img src="examples/Preview.png">
+    <a href="https://dharani865.github.io/Portfolio/" target="_blank"><img src="examples/Preview.png">
   </a>
   </kbd>
 </p>
@@ -61,7 +61,7 @@
           * LinkedIn (URL : http://linkedin.com/in/dharanisri-subramaniam)
           * GitHub   (URL : https://github.com/Dharani865/)          
           * LeetCode (URL : https://leetcode.com/u/Dharani_256/)
-          * Resume   (https://drive.google.com/file/d/1bS2PXW9xsLHnxfV0RJiNqblRuAJETpWh/view?usp=drivesdk)
+          * Resume   (https://drive.google.com/file/d/1AAuHLPZd2xTEggMf2kKyfksCV3YnZrQv/view?usp=drivesdk)
 
 📜 License
 
